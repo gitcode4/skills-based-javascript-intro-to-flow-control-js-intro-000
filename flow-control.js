@@ -39,7 +39,7 @@ function ternaryTeenager(age) {
 //switchAge
 
 function switchAge (age){
-var age = 15;
+//var age = 15;
  switch (age) {
   case 13:
    return ("You are a teenager");
