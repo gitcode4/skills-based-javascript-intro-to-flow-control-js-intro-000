@@ -65,4 +65,3 @@ var age = 15;
   default:
   return ("You have an age");
   }
-
