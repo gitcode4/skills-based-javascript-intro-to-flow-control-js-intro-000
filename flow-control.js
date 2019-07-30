@@ -66,4 +66,3 @@ var age = 15;
   return ("You have an age");
   }
 }
-
